@@ -9,5 +9,8 @@
     "type": "git",
     "url": "https://github.com/DigitalCareerInstitute/Node-process-sum-n-average",
     "id": 218299181
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20"
   }
 }
